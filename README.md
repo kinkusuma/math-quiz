@@ -1,6 +1,6 @@
 # math_quiz
 
-A new Flutter project.
+This is math quiz game created using flutter.
 
 ## Getting Started
 
