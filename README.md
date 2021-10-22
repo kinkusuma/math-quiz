@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Contributing
 
-This is a open source project and we are able to get some help, if you are interest in contribuit to the project, read the CONTRIBUTING.md file in the root folder of the project for more info.
+This is a open source project and we are able to get some help, if you are interest in contribuit to the project, read the [CONTRIBUTING.md](CONTRIBUTING.md) file in the root folder of the project for more info.
